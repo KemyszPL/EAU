@@ -249,144 +249,144 @@ Small_3.2kV_Tungsten_Heating_Corp.name=Mała 3.2kV Wolframowa Grzałka
 Small_50V_Carbon_Incandescent_Light_Bulb.name=Mała 50V Węglowa Żarówka
 Small_50V_Copper_Heating_Corp.name=Mała 50V Miedziana Grzałka
 Small_50V_Economic_Light_Bulb.name=Mała 50V Ekonomiczna Lampa
-Small_50V_Incandescent_Light_Bulb.name=Mała 50V
-Small_50V_Iron_Heating_Corp.name=Small 50V Iron Heating Corp
-Small_50V_Tungsten_Heating_Corp.name=Small 50V Tungsten Heating Corp
-Small_800V_Tungsten_Heating_Corp.name=Small 800V Tungsten Heating Corp
-Small_Active_Thermal_Dissipator.name=Small Active Thermal Dissipator
-Small_Flashlight.name=Small Flashlight
-Small_Fuel_Burner.name=Small Fuel Burner
-Small_Passive_Thermal_Dissipator.name=Small Passive Thermal Dissipator
-Small_Rotating_Solar_Panel.name=Small Rotating Solar Panel
-Small_Solar_Panel.name=Small Solar Panel
-Solar_Tracker.name=Solar Tracker
-Standard_Alarm.name=Standard Alarm
-Steam_Turbine.name=Steam Turbine
-Stone_Heat_Furnace.name=Stone Heat Furnace
-Street_Light.name=Streetlight
-Suspended_Lamp_Socket.name=Suspended Lamp Socket
-Suspended_Lamp_Socket_(No_Swing).name=Suspended Lamp Socket (No Swing)
-Tachometer.name=Tachometer
-Temperature_Probe.name=Temperature Probe
-Thermal_Probe.name=Thermal Probe
-Thermal_Probe_Chip.name=Thermal Probe Chip
-Thermistor.name=Thermistor
-Thermometer.name=Thermometer
-Tree_Resin.name=Tree Resin
-Tree_Resin_Collector.name=Tree Resin Collector
-Tungsten_Cable.name=Tungsten Cable
-Tungsten_Dust.name=Tungsten Dust
-Tungsten_Ingot.name=Tungsten Ingot
-Tungsten_Ore.name=Tungsten Ore
-Tutorial_Sign.name=Tutorial Sign
-Voltage-to-Redstone_Converter.name=Voltage-to-Redstone Converter
-Voltage_Oriented_Battery.name=Voltage Oriented Battery
-Voltage_Probe.name=Voltage Probe
-Voltage_controlled_amplifier.name=Voltage controlled amplifier
-Voltage_controlled_sawtooth_oscillator.name=Voltage controlled sawtooth oscillator
-Voltage_controlled_sine_oscillator.name=Voltage controlled sine oscillator
-Water_Turbine.name=Water Turbine
-Weak_12V_Battery_Charger.name=Weak 12V Battery Charger
-White_Brush.name=White Brush
-Wind_Turbine.name=Wind Turbine
-Wireless_Analyser.name=Wireless Analyzer
-Wireless_Button.name=Wireless Button
-Wireless_Signal_Receiver.name=Wireless Signal Receiver
-Wireless_Signal_Repeater.name=Wireless Signal Repeater
-Wireless_Signal_Transmitter.name=Wireless Signal Transmitter
-Wireless_Switch.name=Wireless Switch
-Wrench.name=Wrench
-X-Ray_Scanner.name=X-Ray Scanner
+Small_50V_Incandescent_Light_Bulb.name=Mała 50V Żarówka Żarowa
+Small_50V_Iron_Heating_Corp.name=Mała 50V Żelazna Grzałka
+Small_50V_Tungsten_Heating_Corp.name=Mała 50V Wolframowa Grzałka
+Small_800V_Tungsten_Heating_Corp.name=Mała 800V Wolframowa Grzałka
+Small_Active_Thermal_Dissipator.name=Mały Aktywny Radiator
+Small_Flashlight.name=Mała Latarka
+Small_Fuel_Burner.name=Średni Palnik na Paliwo
+Small_Passive_Thermal_Dissipator.name=Mały Pasywny Radiator
+Small_Rotating_Solar_Panel.name=Mały Panel Słoneczny (Obraca się)
+Small_Solar_Panel.name=Mały Panel Słoneczny
+Solar_Tracker.name=Moduł Śledzenia Słońca
+Standard_Alarm.name=Standardowy Alarm
+Steam_Turbine.name=Turbina Parowa
+Stone_Heat_Furnace.name=Kamienny Piec Grzewczy
+Street_Light.name=Lampa Uliczna
+Suspended_Lamp_Socket.name=Zawieszona Oprawka Lampy
+Suspended_Lamp_Socket_(No_Swing).name=Zawieszona Oprawka Lampy (Nie kołysze się)
+Tachometer.name=Tachometr
+Temperature_Probe.name=Sonda Temperatury
+Thermal_Probe.name=Sonda Termiczna
+Thermal_Probe_Chip.name=Chip Sondy Termicznej
+Thermistor.name=Termistor
+Thermometer.name=Termometr
+Tree_Resin.name=Żywica Drzewna
+Tree_Resin_Collector.name=Kolektor Żywicy Drzewnej
+Tungsten_Cable.name=Wolframowy Przewód
+Tungsten_Dust.name=Wolframowy Pył
+Tungsten_Ingot.name=Sztabka Wolframu
+Tungsten_Ore.name=Ruda Wolframu
+Tutorial_Sign.name=Znak Poradnika
+Voltage-to-Redstone_Converter.name=Przetwornica Prąd-na-Redstone
+Voltage_Oriented_Battery.name=Bateria o wysokim woltażu
+Voltage_Probe.name=Sonda Napięciowa
+Voltage_controlled_amplifier.name=Sterowany napięciem wzmacniacz
+Voltage_controlled_sawtooth_oscillator.name=Sterowany napięciem oscylator piłokształtny 
+Voltage_controlled_sine_oscillator.name=Sterowany napięciem oscylator sinusoidalny
+Water_Turbine.name=Turbina Wodna
+Weak_12V_Battery_Charger.name=Słaba 12V Ładowarka
+White_Brush.name=Biały Pędzel
+Wind_Turbine.name=Turbina Wiatrowa
+Wireless_Analyser.name=Analizator Bezprzewodowy
+Wireless_Button.name=Bezprzewodowy Przycisk
+Wireless_Signal_Receiver.name=Odbiornik Sygnału Bezprzewodowego
+Wireless_Signal_Repeater.name=Repeater Sygnału Bezprzewodowego
+Wireless_Signal_Transmitter.name=Nadajnik Sygnału Bezprzewodowego
+Wireless_Switch.name=Bezprzewodowy Przełącznik
+Wrench.name=Klucz Francuski
+X-Ray_Scanner.name=Skaner X-Ray
 XNOR_Chip.name=XNOR Chip
 XOR_Chip.name=XOR Chip
-Yellow_Brush.name=Yellow Brush
-entity.EAReplicator.name=Replicator
-item.Copper Axe.name=Copper Axe
-item.Copper Boots.name=Copper Boots
-item.Copper Chestplate.name=Copper Chestplate
-item.Copper Helmet.name=Copper Helmet
-item.Copper Hoe.name=Copper Hoe
-item.Copper Leggings.name=Copper Leggings
-item.Copper Pickaxe.name=Copper Pickaxe
-item.Copper Shovel.name=Copper Shovel
-item.Copper Sword.name=Copper Sword
-item.E-Coal Boots.name=E-Coal Boots
-item.E-Coal Chestplate.name=E-Coal Chestplate
-item.E-Coal Helmet.name=E-Coal Helmet
-item.E-Coal Leggings.name=E-Coal Leggings
-itemGroup.EAU_6_Sided_Components=EAU 6 Sided Components
-itemGroup.EAU_Blocks=EAU Blocks
-itemGroup.EAU_Items_and_Tools=EAU Items and Tools
-mod.meta.desc=Electricity in your base!
-tile.arc_clay_block.name=Arc Clay Block
-tile.arc_metal_block.name=Arc Metal Block
-tile.eau.ElnProbe.name=Computer Probe
-tile.eau.EnergyConverterElnToOtherHVUBlock.name=800V EAU to RF/IC2 energy export
-tile.eau.EnergyConverterElnToOtherLVUBlock.name=50V EAU to RF/IC2 energy export
-tile.eau.EnergyConverterElnToOtherMVUBlock.name=200V EAU to RF/IC2 energy export
+Yellow_Brush.name=Żółty Pędzel
+entity.EAReplicator.name=Replikator
+item.Copper Axe.name=Miedziana Siekiera
+item.Copper Boots.name=Miedziane Buty
+item.Copper Chestplate.name=Miedziany Napierśnik
+item.Copper Helmet.name=Miedziany Hełm
+item.Copper Hoe.name=Miedziana Motyka
+item.Copper Leggings.name=Miedziane Legginsy
+item.Copper Pickaxe.name=Miedziany Kilof
+item.Copper Shovel.name=Miedziana Łopata
+item.Copper Sword.name=Miedziany Miecz
+item.E-Coal Boots.name=E-Węglowe Buty
+item.E-Coal Chestplate.name=E-Węglowy Napierśnik
+item.E-Coal Helmet.name=E-Węglowy Hełm
+item.E-Coal Leggings.name=E-Węglowe Legginsy
+itemGroup.EAU_6_Sided_Components=EAU 6-Stronne Komponenty
+itemGroup.EAU_Blocks=EAU Bloki
+itemGroup.EAU_Items_and_Tools=EAU Przedmioty i Narzędzia
+mod.meta.desc=Elektryczność w Twojej Bazie!
+tile.arc_clay_block.name=Blok Gliny Łukowej(?)
+tile.arc_metal_block.name=Blok Metalu Łukowego(?)
+tile.eau.ElnProbe.name=Sonda Komputerowa
+tile.eau.EnergyConverterElnToOtherHVUBlock.name=800V Eksporter Energii EAU do RF/IC2
+tile.eau.EnergyConverterElnToOtherLVUBlock.name=50V Eksporter Energii EAU do RF/IC2
+tile.eau.EnergyConverterElnToOtherMVUBlock.name=200V Eksporter Energii EAU do RF/IC2
 
 # ./src/main/java/mods/eln/i18n/I18N.java
-You_have_%1$_lives_left=You have %1$ lives left
+You_have_%1$_lives_left=Pozostało Ci %1$ żyć
 
 # ./src/main/java/mods/eln/item/BrushDescriptor.kt
-Brush_is_dry=Brush is dry
-Can_paint_%1$_blocks=Can paint %1$ blocks
+Brush_is_dry=Pędzel jest suchy
+Can_paint_%1$_blocks=Może pomalować %1$ bloków
 
 # ./src/main/java/mods/eln/item/CaseItemDescriptor.kt
-Can_be_used_to_encase_EA_items_that_support_it=Can be used to encase EA items that support it
+Can_be_used_to_encase_EA_items_that_support_it=Może zostać użyta do obudowania przedmiotów EA które to wspierają
 
 # ./src/main/java/mods/eln/item/CombustionChamber.java
-Upgrade_for_the_Stone_Heat_Furnace.=Upgrade for the Stone Heat Furnace.
+Upgrade_for_the_Stone_Heat_Furnace.=Ulepszenie dla Kamiennego Pieca Grzewczego.
 
 # ./src/main/java/mods/eln/item/ElectricalDrillDescriptor.java
-Energy_per_operation\:_%1$J=Energy per operation: %1$J
-Time_per_operation\:_%1$h=Time per operation: %1$h
+Energy_per_operation\:_%1$J=Energia na jedną operację: %1$J
+Time_per_operation\:_%1$h=Czas na jedną operację: %1$h
 
 # ./src/main/java/mods/eln/item/FerromagneticCoreDescriptor.java
-Cable_loss_factor\:_%1$=Cable loss factor: %1$
+Cable_loss_factor\:_%1$=Współczynnik stratności kabla: %1$
 
 # ./src/main/java/mods/eln/item/FuelBurnerDescriptor.kt
-Burn_unit_for_the_gas_heat_furnace.=Burn unit for the gas heat furnace.
-Produced_heat_power\:_=Produced heat power: 
+Burn_unit_for_the_gas_heat_furnace.=Palnik dla Pieca Grzewczego na Paliwo.
+Produced_heat_power\:_=Wytwarzana energia cieplna: 
 
 # ./src/main/java/mods/eln/item/HeatingCorpElement.java
 
 # ./src/main/java/mods/eln/item/LampDescriptor.java
-Bad=Bad
-Condition\:=Condition:
-End_of_life=End of life
-Good=Good
-New=New
-Nominal_lifetime\:_%1$h=Nominal lifetime: %1$h
-Technology\:_%1$=Technology: %1$
-Used=Used
+Bad=Zła
+Condition\:=Kondycja:
+End_of_life=Koniec życia
+Good=Dobra
+New=Jak nowa
+Nominal_lifetime\:_%1$h=Nominalna żywotność: %1$h
+Technology\:_%1$=Technologia: %1$
+Used=Używana
 
 # ./src/main/java/mods/eln/item/LampSlot.java
-Lamp_slot=Lamp slot
+Lamp_slot=Slot na lampę
 
 # ./src/main/java/mods/eln/item/OverHeatingProtectionDescriptor.java
-Useful_to_prevent_overheating\nof_Batteries=Useful to prevent overheating\nof Batteries
+Useful_to_prevent_overheating\nof_Batteries=Przydatne, aby zapobiec przegrzaniu\nbaterii 
 
 # ./src/main/java/mods/eln/item/OverVoltageProtectionDescriptor.java
-Useful_to_prevent_over-voltage\nof_Batteries=Useful to prevent over-voltage\nof Batteries
+Useful_to_prevent_over-voltage\nof_Batteries=Przydatne do zapobiegania przepięciom\nbaterii 
 
 # ./src/main/java/mods/eln/item/SolarTrackerDescriptor.java
-Solar_panel_upgrade=Solar panel upgrade
+Solar_panel_upgrade=Ulepszenie dla paneli słonecznych.
 
 # ./src/main/java/mods/eln/item/electricalitem/ElectricalArmor.java
 
 # ./src/main/java/mods/eln/item/electricalitem/ElectricalLampItem.java
-State\:=State:
-Stored_Energy\:_%1$J_(%2$%)=Stored Energy: %1$J (%2$%)
+State\:=Status:
+Stored_Energy\:_%1$J_(%2$%)=Przechowywana Energia: %1$J (%2$%)
 
 # ./src/main/java/mods/eln/item/regulator/RegulatorSlot.java
 
 # ./src/main/java/mods/eln/mechanical/Tachometer.kt
-Rads_s_corresponding\nto_0%_output=Rads/s corresponding\nto 0% output
-Rads_s_corresponding\nto_100%_output=Rads/s corresponding\nto 100% output
+Rads_s_corresponding\nto_0%_output=Rady/s odpowiadające 0% mocy wyjściowej 
+Rads_s_corresponding\nto_100%_output=Rady/s odpowiadające 100% mocy wyjściowej 
 
 # ./src/main/java/mods/eln/misc/UtilsClient.java
-Hold_shift=Hold shift
+Hold_shift=Przytrzymaj Shift
 
 # ./src/main/java/mods/eln/misc/Version.java
 mod.name=Electrical Age
@@ -394,7 +394,7 @@ mod.name=Electrical Age
 # ./src/main/java/mods/eln/node/transparent/TransparentNodeDescriptor.java
 
 # ./src/main/java/mods/eln/simplenode/energyconverter/EnergyConverterElnToOtherGui.java
-Input_power_is_limited_to_%1$W=Input power is limited to %1$W
+Input_power_is_limited_to_%1$W=Moc wejściowa jest ograniczona do %1$W
 
 # ./src/main/java/mods/eln/sixnode/AnalogChips.kt
 A_voltage-controlled_amplifier_(VCA)\nis_an_electronic_amplifier_that_varies\nits_gain_depending_on_the_control_voltage.=A voltage-controlled amplifier (VCA)\nis an electronic amplifier that varies\nits gain depending on the control voltage.
@@ -413,7 +413,7 @@ Samples_the_voltage_of_a_varying_analog_signal_when\nthe_clock_input_changes_fro
 The_summing_unit_outputs_the_sum_of\nthe_three_weighted_inputs.The\ngain_for_each_input_can_be_configured.=The summing unit outputs the sum of\nthe three weighted inputs.The\ngain for each input can be configured.
 
 # ./src/main/java/mods/eln/sixnode/ElectricalFuse.kt
-Protects_electrical_components.\nFuse_melts_if_current_exceeds_the\nfuse_limit=Protects electrical components.\nFuse melts if current exceeds the\nfuse limit
+Protects_electrical_components.\nFuse_melts_if_current_exceeds_the\nfuse_limit=Ochrania komponenty elektryczne.\nBezpiecznik topi się, jeśli przekroczy\nlimit bezpiecznika
 
 # ./src/main/java/mods/eln/sixnode/EmergencyLamp.kt
 
@@ -436,15 +436,15 @@ UNDEF=UNDEF
 -_For_inventories,_outputs_either_total_fill_or_fraction_of_slots_with_any_items.=- For inventories, outputs either total fill or fraction of slots with any items.
 -_For_tanks,_outputs_fill_percentage.=- For tanks, outputs fill percentage.
 Otherwise_behaves_as_a_vanilla_comparator.=Otherwise behaves as a vanilla comparator.
-Right-click_to_change_mode.=Right-click to change mode.
-Scans_blocks_to_produce_signals.=Scans blocks to produce signals.
+Right-click_to_change_mode.=Kliknij PPM aby zmienić tryb.
+Scans_blocks_to_produce_signals.=Skanuje bloki aby produkować sygnały.
 
 # ./src/main/java/mods/eln/sixnode/TreeResinCollector/TreeResinCollectorDescriptor.java
 Produces_Tree_Resin_over\ntime_when_put_on_a_tree.=Produces Tree Resin over\ntime when put on a tree.
 This_block_can_only_be_placed_on_the_side_of_a_tree!=This block can only be placed on the side of a tree!
 
 # ./src/main/java/mods/eln/sixnode/batterycharger/BatteryChargerContainer.java
-Battery_slot=Battery slot
+Battery_slot=Slot na baterię
 
 # ./src/main/java/mods/eln/sixnode/batterycharger/BatteryChargerDescriptor.java
 Can_be_used_to_recharge\nelectrical_items_like\:\nFlash_Light,_X-Ray_scanner\nand_Portable_Battery_...=Can be used to recharge\nelectrical items like:\nFlash Light, X-Ray scanner\nand Portable Battery ...
