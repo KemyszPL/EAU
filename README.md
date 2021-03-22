@@ -1,3 +1,4 @@
+This translation has been put on indefinite hold.
 # EAU - Electrical Age Unleashed
 
 EAU is a rewrite of Electrical Age, which is a Minecraft Mod offering the ability to perform large-scale in-game electrical simulations.
